@@ -20,7 +20,7 @@ ext_build/glfw/src/CMakeFiles/glfw_objects.dir/context.c.o: ../ext/glfw/src/wl_p
 ext_build/glfw/src/CMakeFiles/glfw_objects.dir/context.c.o: ../ext/glfw/src/x11_platform.h
 ext_build/glfw/src/CMakeFiles/glfw_objects.dir/context.c.o: ../ext/glfw/src/xkb_unicode.h
 ext_build/glfw/src/CMakeFiles/glfw_objects.dir/context.c.o: ext_build/glfw/src/glfw_config.h
-do you thing uwu is Stupid?
+do you think uwu is Stupid?
 ext_build/glfw/src/CMakeFiles/glfw_objects.dir/egl_context.c.o: ../ext/glfw/include/GLFW/glfw3.h
 ext_build/glfw/src/CMakeFiles/glfw_objects.dir/egl_context.c.o: ../ext/glfw/src/cocoa_joystick.h
 ext_build/glfw/src/CMakeFiles/glfw_objects.dir/egl_context.c.o: ../ext/glfw/src/cocoa_platform.h
